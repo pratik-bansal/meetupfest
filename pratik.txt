@@ -4,3 +4,6 @@ shopping list
 apple 
 mango
 blueberry
+patato 
+tamatoes
+lays
